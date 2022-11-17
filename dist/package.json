@@ -1,0 +1,20 @@
+{
+  "name": "@kaylum.io/json-graph-ts",
+  "version": "0.1.0",
+  "description": "Json Graph implementation in TypeScript",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "sideEffects": false,
+  "repository": {},
+  "files": [
+    "lib",
+    "package.json"
+  ],
+  "keywords": [
+    "jsongraph",
+    "json-graph",
+    "graph"
+  ],
+  "author": "Calem Roelofs",
+  "license": "MIT"
+}
